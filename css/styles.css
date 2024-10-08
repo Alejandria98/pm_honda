@@ -283,6 +283,11 @@ nav{
 	background-color: var(--secondaryColor);
 }
 
+.btm3_imgs img{
+	max-width: 815px;
+	width: 100%;
+}
+
 
 .footer_top{
 	background-color: #fff;
