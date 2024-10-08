@@ -75,9 +75,12 @@
         line-height: 61px;
     }
     
-
     .btm2_flex1{
         width: 256px;
+    }
+
+    .btm3_imgs img{
+        width: 49%;
     }
 
     .nav_links a{
